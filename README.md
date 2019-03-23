@@ -27,4 +27,5 @@
 ```
 
 效果图：
+
 ![](https://github.com/ApesTalk/ATMagnifier/blob/master/ATMagnifier/magnifier.gif)

@@ -56,7 +56,7 @@
 //        magnifier.layer.shadowRadius = 1;
 //        magnifier.layer.shadowOpacity = 0.1;
 //        magnifier.layer.shadowOffset = CGSizeMake(0, 1);
-//        
+//
 //        magnifier.magnification = 2.0;
 //    }];
 }
